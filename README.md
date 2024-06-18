@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @800-series
 - 👀 I’m interested in machine learning and data science 
-- 🌱 I’m currently learning Python, R, SQL, C++ and java. 
+- 🌱 I’m currently learning Python, R, SQL and C++. 
 
 <!---
 800-series/800-series is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
